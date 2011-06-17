@@ -1,0 +1,13 @@
+OBJECTS = \
+$(OBJECTS_DIR)/lightModel.o\
+$(OBJECTS_DIR)/newLightModel.o\
+$(OBJECTS_DIR)/lightP1.o\
+$(OBJECTS_DIR)/lightDOM.o\
+$(OBJECTS_DIR)/lightIntensityRay.o\
+$(OBJECTS_DIR)/scatterModel.o\
+$(OBJECTS_DIR)/newScatterModel.o\
+$(OBJECTS_DIR)/constantScatter.o\
+$(OBJECTS_DIR)/absorptionEmissionModel.o\
+$(OBJECTS_DIR)/newAbsorptionEmissionModel.o\
+$(OBJECTS_DIR)/bioMediaAbsorption.o\
+$(OBJECTS_DIR)/semiTransSurfaceMixedFvPatchScalarField.o

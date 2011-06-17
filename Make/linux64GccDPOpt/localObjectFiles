@@ -1,0 +1,13 @@
+LOCAL_OBJECTS = \
+lightModel.o\
+newLightModel.o\
+lightP1.o\
+lightDOM.o\
+lightIntensityRay.o\
+scatterModel.o\
+newScatterModel.o\
+constantScatter.o\
+absorptionEmissionModel.o\
+newAbsorptionEmissionModel.o\
+bioMediaAbsorption.o\
+semiTransSurfaceMixedFvPatchScalarField.o

@@ -1,0 +1,33 @@
+# 1 "files"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "files"
+
+
+
+lightModel/lightModel.C
+lightModel/newLightModel.C
+
+lightP1/lightP1.C
+
+lightDOM/lightDOM.C
+lightIntensityRay/lightIntensityRay.C
+
+
+
+scatterModel/scatterModel/scatterModel.C
+scatterModel/scatterModel/newScatterModel.C
+scatterModel/constantScatter/constantScatter.C
+
+
+
+absorptionEmissionModel/absorptionEmissionModel/absorptionEmissionModel.C
+absorptionEmissionModel/absorptionEmissionModel/newAbsorptionEmissionModel.C
+absorptionEmissionModel/bioMediaAbsorption/bioMediaAbsorption.C
+
+
+
+derivedFvPatchFields/semiTransSurface/semiTransSurface/semiTransSurfaceMixedFvPatchScalarField.C
+
+
+LIB = /home/kongbo/Dropbox/PSM/light/lightFoam/lightFoam/liblight

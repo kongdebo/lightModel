@@ -1,0 +1,13 @@
+DEPENDENCIES = \
+lightModel/lightModel.dep\
+lightModel/newLightModel.dep\
+lightP1/lightP1.dep\
+lightDOM/lightDOM.dep\
+lightIntensityRay/lightIntensityRay.dep\
+scatterModel/scatterModel/scatterModel.dep\
+scatterModel/scatterModel/newScatterModel.dep\
+scatterModel/constantScatter/constantScatter.dep\
+absorptionEmissionModel/absorptionEmissionModel/absorptionEmissionModel.dep\
+absorptionEmissionModel/absorptionEmissionModel/newAbsorptionEmissionModel.dep\
+absorptionEmissionModel/bioMediaAbsorption/bioMediaAbsorption.dep\
+derivedFvPatchFields/semiTransSurface/semiTransSurface/semiTransSurfaceMixedFvPatchScalarField.dep

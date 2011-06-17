@@ -1,0 +1,12 @@
+include lightModel/lightModel.dep
+include lightModel/newLightModel.dep
+include lightP1/lightP1.dep
+include lightDOM/lightDOM.dep
+include lightIntensityRay/lightIntensityRay.dep
+include scatterModel/scatterModel/scatterModel.dep
+include scatterModel/scatterModel/newScatterModel.dep
+include scatterModel/constantScatter/constantScatter.dep
+include absorptionEmissionModel/absorptionEmissionModel/absorptionEmissionModel.dep
+include absorptionEmissionModel/absorptionEmissionModel/newAbsorptionEmissionModel.dep
+include absorptionEmissionModel/bioMediaAbsorption/bioMediaAbsorption.dep
+include derivedFvPatchFields/semiTransSurface/semiTransSurface/semiTransSurfaceMixedFvPatchScalarField.dep
