@@ -1,0 +1,29 @@
+
+
+/* light model */
+lightModel/lightModel.C
+lightModel/newLightModel.C
+
+lightP1/lightP1.C
+
+lightDOM/lightDOM.C
+lightIntensityRay/lightIntensityRay.C
+
+
+/* Scatter model */
+scatterModel/scatterModel/scatterModel.C
+scatterModel/scatterModel/newScatterModel.C
+scatterModel/constantScatter/constantScatter.C
+
+
+/* Absorption/Emission model */
+absorptionEmissionModel/absorptionEmissionModel/absorptionEmissionModel.C
+absorptionEmissionModel/absorptionEmissionModel/newAbsorptionEmissionModel.C
+absorptionEmissionModel/bioMediaAbsorption/bioMediaAbsorption.C
+
+
+/* Boundary conditions */
+derivedFvPatchFields/semiTransSurface/semiTransSurface/semiTransSurfaceMixedFvPatchScalarField.C
+
+
+LIB = /home/kongbo/Dropbox/PSM/light/lightFoam/lightFoam/liblight
